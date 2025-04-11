@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(8, 3, 54);
+    color: white;
+    font-size: 16px;
+    background-image: url(https://static.wikia.nocookie.net/vsdebating/images/b/ba/Captain_america_PNG50.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.common{
+    border: 2px solid white;
+    position: absolute;
+
+}
+
+.nav{
+    position: relative;
+    float: right;
+    
+}
+
+.header{
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+.content{
+    top: 90px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.footer{
+    font-style: italic;
+    text-align: center;
+    font-size: 50%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: rgba(125, 159, 159, 0.5);
+
+
+}
